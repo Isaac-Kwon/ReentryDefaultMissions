@@ -448,7 +448,7 @@
       "Timestamp": 0.0,
       "DisplayTime": 3.0,
       "From": 2,
-      "Message": "마지막으로 AUTO RETRO 시스템을 활성화(ARM)해야 합니다. 이를 위해서는 역분사 로켓 No.1, No.2, No.3, No.4의 스퀴브(squib)가 활성 상태여야 합니다. 그러면 역분사 로켓이 점화됩니다. 확실히 하기 위해 역분사 점화 1초 후에 MAN FIRE RETRO를 작동시키는 것이 일반적입니다.",
+      "Message": "마지막으로 AUTO RETRO 시스템을 활성화(ARM)해야 합니다. 이를 위해서는 역분사 로켓 No.1, No.2, No.3, No.4의 스큅(squib)가 활성 상태여야 합니다. 그러면 역분사 로켓이 점화됩니다. 확실히 하기 위해 역분사 점화 1초 후에 MAN FIRE RETRO를 작동시키는 것이 일반적입니다.",
       "Value1": 0.0,
       "Value2": 0.0,
       "Value3": 0.0,
